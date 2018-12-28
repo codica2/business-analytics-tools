@@ -1,6 +1,6 @@
 # Business Analytics Tools
 
-![](images/image.png)
+![](images/image.jpg)
 
 The popularity of business analytics tools have reached a boiling point in recent years. This change is driven by the need to increase the depths of functionality these tools deliver without a data scientist supporting them. Businesses are developing advanced technologies to meet this new need. These advances have resulted in a new age of cutting-edge business analytics tools described in this repo.
 
