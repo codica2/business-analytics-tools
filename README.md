@@ -104,7 +104,7 @@ Hotjar is a trending, powerful tool that reveals the online behavior of the user
 
 
 ## License
-business-analytics-tools is Copyright © 2015-2018 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).
+business-analytics-tools is Copyright © 2015-2019 Codica. It is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## About Codica
 
